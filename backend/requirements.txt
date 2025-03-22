@@ -1,0 +1,10 @@
+flask
+flask-cors
+python-dotenv
+langchain
+langchain_together
+langchain_core
+langchain_community
+langgraph
+requests
+pydantic
